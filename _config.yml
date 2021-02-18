@@ -1,3 +1,16 @@
+#Edited by Vince Stevens - 18 Feb 2021
+
+#This file sets some of the basic properties for the website, 
+#includeing information in the header, footer, etc.
+
+#Jekyll Theme for the website
 theme: jekyll-theme-cayman
+
+#Title of the website
 title: Kayleigh's Tender Love and Kare
+
+#Description to display immediately under the website name
 description: Kayleigh Heather's Furniture Refurbishing and Restoration
+
+# Your name to show in the footer
+author: VIncent Stevens
