@@ -12,9 +12,6 @@ title: Kayleigh's Tender Love and Kare
 #Description to display immediately under the website name
 description: Kayleigh Heather's Furniture Refurbishing and Restoration
 
-# Your name to show in the footer
-author: Vincent Stevens
-
 #disable view on github button
 github:
   is_project_page: false
