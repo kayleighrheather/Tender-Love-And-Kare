@@ -1,10 +1,10 @@
 # Let's Bring Your Furniture Restoration Vision to Life!
 
 Sick of the coffee stains on your table?
-![Image](https://github.com/kayleighrheather/tenderloveandkare/blob/gh-pages/waterstains.jpeg?raw=true =250x250)
+<img src="https://github.com/kayleighrheather/tenderloveandkare/blob/gh-pages/waterstains.jpeg?raw=true" height="50" width="50">
 
 Tired of the scratches, chips and general fading on your dresser, bedside table or desk?
-![Image](https://github.com/kayleighrheather/tenderloveandkare/blob/gh-pages/faded-desk.jpeg?raw=true =250x250)
+<img src="https://github.com/kayleighrheather/tenderloveandkare/blob/gh-pages/faded-desk.jpeg?raw=true" height="50" width="50">
 
 My name is Kayleigh Heather and I am an engineering student at Virginia Tech. In my free time I love to refurbish and refinish furniture. Anything from a small touch up to a large project, nothing is beyond my reach!
 
