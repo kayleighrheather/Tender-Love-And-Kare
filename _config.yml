@@ -13,8 +13,8 @@ title: Kayleigh's Tender Love and Kare
 description: Kayleigh Heather's Furniture Refurbishing and Restoration
 
 #disable view on github button
-github:
-  is_project_page: false
+#github:
+  #is_project_page: false
   
 #display a navigation bar list with links
 navbar-links:
