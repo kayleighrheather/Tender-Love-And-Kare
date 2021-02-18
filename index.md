@@ -6,7 +6,7 @@ Sick of the coffee stains on your table?
 
 Tired of the scratches, chips and general fading on your dresser, bedside table or desk?
 
-<img src="https://github.com/kayleighrheather/tenderloveandkare/blob/gh-pages/faded-desk.jpeg?raw=true" height="250" width="500">
+<img src="https://github.com/kayleighrheather/tenderloveandkare/blob/gh-pages/faded-desk.jpeg?raw=true" height="250" width="375">
 
 My name is Kayleigh Heather and I am an engineering student at Virginia Tech. In my free time I love to refurbish and refinish furniture. Anything from a small touch up to a large project, nothing is beyond my reach!
 
