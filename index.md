@@ -1,10 +1,37 @@
-## Welcome to GitHub Pages
+## Let's Bring Your Furniture Restoration Vision to Life!
 
-You can use the [editor on GitHub](https://github.com/kayleighrheather/tenderloveandkare/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sick of the coffee stains on your table?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tired of the scratches, chips and general fading on your dresser, bedside table or desk?
 
-### Markdown
+My name is Kayleigh Heather and I am an engineering student at Virginia Tech. In my free time I love to refurbish and refinish furniture. Anything from a small touch up to a large project, nothing is beyond my reach!
+
+Some of my skills include:
+- Restaining
+- Repainting
+- Sanding
+- Distressing (Applying a distressed look)
+- Refinishing
+- Antiquing
+- Accenting
+- Leveling
+- And more!
+
+I can and have worked on furniture pieces such as:
+- Desks
+- Dressers
+- Tables
+- Jewelry Boxes
+
+Below you will see some of the work that I have done. If anthing catches your eye and you would like more pictures, let me know. 
+
+I even have a truck, so **pick-up and drop off would be a breeze!**
+
+Let me know if you are interested, I would **love to make your vision come to life!**
+
+## My Past Projects
+
+### Desk 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
