@@ -1,10 +1,10 @@
 # Let's Bring Your Furniture Restoration Vision to Life!
 
 Sick of the coffee stains on your table?
-
+![Image](https://drive.google.com/drive/folders/1IZUNiKD3KX9FxTSWdQ4zzqitr3p5Uqah)
 
 Tired of the scratches, chips and general fading on your dresser, bedside table or desk?
-
+![Image](https://drive.google.com/drive/folders/1IZUNiKD3KX9FxTSWdQ4zzqitr3p5Uqah)
 
 My name is Kayleigh Heather and I am an engineering student at Virginia Tech. In my free time I love to refurbish and refinish furniture. Anything from a small touch up to a large project, nothing is beyond my reach!
 
@@ -68,6 +68,6 @@ Ready to move forward with getting some tender love and kare for your favorite f
 
 ```
 Kayleigh R. Heather
-**Cell: (623) 826-0490**
-**Email: [kheather@vt.edu]**
+Cell: (623) 826-0490
+Email: kheather@vt.edu
 ```
