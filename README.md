@@ -1,2 +1,2 @@
-# Tender-Love-And-Kare
-Kayleigh's Tender Love and Kare: Furniture Restoration and Refinishing
+# Tender Love and Kare
+Kayleigh Heather's Furniture Restoration and Refinishing
