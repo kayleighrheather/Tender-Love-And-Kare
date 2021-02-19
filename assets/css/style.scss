@@ -26,10 +26,10 @@ div {
 }
 
 #about {
+	padding: 1rem;
   	border-width: 3px;
   	border-style: solid;
-  	border-image: linear-gradient(to right, #159957, #155799) 100%;
+  	border-image: linear-gradient(to right, #159957, #155799) 1 100%;
   	text-align: center;
-  	padding: 1rem;
 }
 
