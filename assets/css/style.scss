@@ -28,7 +28,7 @@ div {
 #about {
   	border-width: 3px;
   	border-style: solid;
-  	border-image: linear-gradient(to right, #159957, #155799);
+  	border-image: linear-gradient(to right, #159957, #155799) 100%;
   	text-align: center;
   	padding: 1rem;
 }
