@@ -4,13 +4,13 @@
 @import "{{ site.theme }}";
 
 .big-header {
-	padding: 25px 25px;
+	padding: 75px 25px;
 	text-align: center;
 }
 
 div {
-	padding-top: 25px;
-	padding-bottom: 25px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 #sick-of-coffee {
@@ -23,4 +23,12 @@ div {
 	padding-right: 25px;
 	padding-left: 150px;
 	text-align: right;
+}
+
+.module-border-wrap {
+	max-width: 250px;
+  	padding: 1rem;
+ 	position: relative;
+  	background: linear-gradient(to right, #159957, #155799);
+  	padding: 3px;
 }
