@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+body {
+	display: grid;
+}
+
 .big-header {
 	padding: 25px 25px;
 	text-align: center;
