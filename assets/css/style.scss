@@ -4,10 +4,23 @@
 @import "{{ site.theme }}";
 
 .big-header {
+	padding: 75px 25px;
 	text-align: center;
 }
 
-#sick-of-wear {
+div {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#sick-of-coffee {
+	padding-right: 150px;
+	padding-left: 25px;
 	text-align: right;
 }
 
+#sick-of-wear {
+	padding-right: 25px;
+	padding-left: 150px;
+	text-align: right;
+}
