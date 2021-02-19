@@ -5,18 +5,3 @@
 
 #Jekyll Theme for the website
 theme: jekyll-theme-cayman
-
-#Title of the website
-title: Kayleigh's Tender Love and Kare
-
-#Description to display immediately under the website name
-description: Kayleigh Heather's Furniture Refurbishing and Restoration
-
-#disable view on github button
-#github:
-  #is_project_page: false
-  
-#display a navigation bar list with links
-navbar-links:
-  About Me: "aboutme.md"
-  Past Projects: "portfolio.html"
