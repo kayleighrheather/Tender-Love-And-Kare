@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-body {
-	display: grid;
-}
-
 .big-header {
 	padding: 25px 25px;
 	text-align: center;
@@ -29,14 +25,9 @@ div {
 	text-align: right;
 }
 
-.module {
-	background-color: white;
-	padding: 2rem;
-	text-align: center;
+#about {
+  border-width: 3px;
+  border-style: solid;
+  border-image: linear-gradient(to right, #159957, #155799) 1 100%;
 }
 
-.module-border-wrap {
-  	padding: 1rem;
-  	background: linear-gradient(to right, #159957, #155799);
-  	padding: 3px;
-}
