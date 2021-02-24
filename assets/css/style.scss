@@ -4,8 +4,10 @@
 @import "{{ site.theme }}";
 
 .big-header {
-	padding: 25px 25px;
 	text-align: center;
+	background: #222;
+  	color: white;
+  	padding: 2rem;
 }
 
 div {
